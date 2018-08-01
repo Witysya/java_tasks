@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9fd7a6f-34c6-4761-8f94-012dcb48cffb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaLearning/sombra$Developer$1Accountant.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaLearning/sombra$Developer$1Manager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaLearning/sombra$Developer$BE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaLearning/sombra$Developer$FE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaLearning/sombra$Developer$QA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaLearning/sombra$Developer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaLearning/sombra.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Chat.java" afterPath="$PROJECT_DIR$/src/com/company/Chat.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Converter.java" afterPath="$PROJECT_DIR$/src/com/company/Converter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/FirstTask.java" afterPath="$PROJECT_DIR$/src/com/company/FirstTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/QuadraticEquation.java" afterPath="$PROJECT_DIR$/src/com/company/QuadraticEquation.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +42,8 @@
       <file leaf-file-name="QuadraticEquation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/QuadraticEquation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="522">
+              <caret line="29" column="51" lean-forward="true" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -724,12 +712,20 @@
       <workItem from="1532965758895" duration="9526000" />
       <workItem from="1533035978098" duration="237000" />
       <workItem from="1533036874584" duration="1682000" />
-      <workItem from="1533118362427" duration="6273000" />
+      <workItem from="1533118362427" duration="6310000" />
     </task>
+    <task id="LOCAL-00001" summary="Add TODO items">
+      <created>1533133190220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533133190220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30271000" />
+    <option name="totallyTimeSpent" value="30308000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -786,6 +782,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add TODO items" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add TODO items" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1153,8 +1153,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/QuadraticEquation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="522">
+          <caret line="29" column="51" lean-forward="true" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
           <folding />
         </state>
       </provider>
