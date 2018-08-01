@@ -4,6 +4,7 @@ public class Converter {
 
     public static void main(String[] args) {
 
+        // TODO додай можливість конвертації з введеної строки користувачам, також зворотню конвертацію і заюзай це в програмі з діалогом
         double usd;
         usd = convertEurToUsd(6, 2.4);
         usd = convertEurToUsd(4, 1.3);
